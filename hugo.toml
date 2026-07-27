@@ -1,4 +1,4 @@
-baseURL = 'https://mukunjin.github.io/'
+baseURL = 'https://mukunjin.com/'
 locale = 'zh-cn'
 title = 'Mukun Jin'
 theme = 'PaperMod'

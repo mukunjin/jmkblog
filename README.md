@@ -1,6 +1,6 @@
 # Mukun Jin's Blog
 
-基于 Hugo 与 PaperMod 主题构建的个人博客，部署于 GitHub Pages。
+基于 Hugo 与 PaperMod 主题构建的个人博客，部署于 Cloudflare。
 
 ## 技术栈
 
@@ -51,19 +51,13 @@ categories: ["分类名"]
 
 ## 部署
 
-推送到 `main` 分支后，GitHub Actions 会自动构建并部署到 GitHub Pages：
+推送到 `main` 分支后，会自动触发构建和部署。
 
 ```bash
 git add .
 git commit -m "update blog"
 git push
 ```
-
-**首次使用需在 GitHub 仓库设置中配置：**
-1. 打开 `https://github.com/mukunjin/mukunjin.github.io/settings/pages`
-2. 在 **Source** 下选择 **GitHub Actions**
-
-之后每次 push 都会自动触发构建和部署。
 
 ## 主要配置
 
