@@ -3,7 +3,7 @@ locale = 'zh-cn'
 title = 'Mukun Jin'
 theme = 'PaperMod'
 publishDir = 'public'
-copyright = '© 2026 Mukun Jin. All rights reserved.'
+copyright = '© 2026 Mukun Jin. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)'
 
 [pagination]
 pagerSize = 10
