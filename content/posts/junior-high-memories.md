@@ -53,7 +53,7 @@ categories: 生活
 
 ### 其他老师：
 **陈小华**：教7班英语，曾任1班班主任。年级主任。外号小华/校花。25年暑假集训被他在大礼堂用手机制裁过（讲话被拍了，发给班主任和家长）。25年冬因张老师生病他短暂地教过我们。非常严厉但有趣（？）。就是在那段时间他在课上教会了我们一个单词（是的，请务必相信你的眼睛）：
-![xiaohua-gigolo.webp](https://img.mukunjin.com/xiaohua-gigolo.webp)
+![xiaohua-gigolo.webp](https://pub-aa95b769ea0843048c4d3181378b7b3c.r2.dev/xiaohua-gigolo.webp)
 后面会详细说这个事。
 
 **李先全**：书记。26年寒假约跑成功，答应寒假上自习的时候和我们跑，最终因为还没跑呢自习课就被举报了而泡汤。
@@ -780,7 +780,7 @@ LLY真是可爱极了AwA，有一次和我说她用ds写的老大布置的作文
 还有一个比较遗憾的是当时没买到vagabond a2se。出这个车是为了清Bross的旧车架，用的4720大套，十分诱人，可惜没有我合适的尺码。
 
 WWZ喊我们跑步，没去。
-![wwz-arranging-a-run-together.webp](https://img.mukunjin.com/wwz-arranging-a-run-together.jpg)
+![wwz-arranging-a-run-together.webp](https://pub-aa95b769ea0843048c4d3181378b7b3c.r2.dev/wwz-arranging-a-run-together.jpg)
 
 ---
 
@@ -869,7 +869,7 @@ Lucy约定要是你把思维导图画完中考没上45就去找她要奶茶。�
 
 忘了说了，老大还给我们整了一个心愿墙。如图：
 
-![wall-of-dream.webp](https://img.mukunjin.com/wall-of-dream.webp)
+![wall-of-dream.webp](https://pub-aa95b769ea0843048c4d3181378b7b3c.r2.dev/wall-of-dream.webp)
 
 最后两周甚至实行了特殊课表。
 
