@@ -6,7 +6,7 @@ categories: 计算机
 ## 前言
 我在VPS吧有一台闲置的NAT VPS，1C 128M的配置让它变得食之无味，弃之可惜，一直在想能不能把它用起来。
 
-![hardware-specifications-of-free-nat-vps.png](https://pub-aa95b769ea0843048c4d3181378b7b3c.r2.dev/hardware-specifications-of-free-nat-vps.png)
+![hardware-specifications-of-free-nat-vps.png](https://img.mukunjin.com/hardware-specifications-of-free-nat-vps.png)
 
 最近准备把玩一下Git服务器，于是这台NAT鸡就有用了。那么，我到底是选Gitea，OneDev还是Forgejo呢？GitLab CE这些就别想了。
 
@@ -65,7 +65,7 @@ git add .
 git commit -m "testing"   
 ```
 
-![client-side-git-clone-test.png](https://pub-aa95b769ea0843048c4d3181378b7b3c.r2.dev/client-side-git-clone-test.png)
+![client-side-git-clone-test.png](https://img.mukunjin.com/client-side-git-clone-test.png)
 
 没有问题。
 ### 进阶配置

@@ -13,7 +13,7 @@ categories: 计算机
 
 ## 转折点
 我有一个同学把我这个题抄了一遍，晚上带回家去问他认识的一个大学生，然后那个大学生又去问了一个研究生，研究生就写了一个Python脚本来算，最后发现确实满足。具体怎么算的我不知道，我同学给我发了一张研究生的Pycharm运行结果的照片，然后给我复制了一遍研究生的解答回复（看不懂）
-![python-solution.webp](https://pub-aa95b769ea0843048c4d3181378b7b3c.r2.dev/python-solution.webp)
+![python-solution.webp](https://img.mukunjin.com/python-solution.webp)
 欸我就在想，反正这个题人力也算不出来了，不如就用电脑做着玩玩吧，然后就开始思考怎么解决。
 >我怀疑研究生是用AI写的脚本，毕竟写这样的一个小玩意儿，谁还会写注释啊？（照片里面能看到）。
 
@@ -24,7 +24,7 @@ categories: 计算机
 
 ## 代码
 其实挺简单的，查查文档这些十分钟就写好了
-![my-cpp-solution.webp.png](https://pub-aa95b769ea0843048c4d3181378b7b3c.r2.dev/my-cpp-solution.webp.webp)
+![my-cpp-solution.webp.png](https://img.mukunjin.com/my-cpp-solution.webp.webp)
 
 源码：
 
@@ -71,7 +71,7 @@ int main() {
 ```
 
 静待编译完成...
-![calculated-results.webp.png](https://pub-aa95b769ea0843048c4d3181378b7b3c.r2.dev/calculated-results.webp.webp)
+![calculated-results.webp.png](https://img.mukunjin.com/calculated-results.webp.webp)
 
 我自己也没想到最后居然真的凑出来了！
 Yeeeeeeeeees!
