@@ -30,8 +30,8 @@ tocopen = false
 ShowSearch = true
 
 [params.homeInfoParams]
-Title = '我的博客'
-Content = '写自己想写的内容，做自己想做的事情。'
+Title = '博客'
+Content = 'Everything finished with exit code 0.'
 
 [[params.socialIcons]]
 name = 'github'
