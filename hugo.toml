@@ -41,14 +41,6 @@ url = 'https://github.com/mukunjin'
 name = 'twitter'
 url = 'https://x.com/mukunjin'
 
-[[params.socialIcons]]
-name = 'youtube'
-url = 'https://www.youtube.com/channel/UCZK8bFbZWGz10IxlRO6cWkg'
-
-[[params.socialIcons]]
-name = 'instagram'
-url = 'https://www.instagram.com/mukun_jin/'
-
 [params.assets]
 favicon = '/images/avatar.webp'
 favicon16x16 = '/images/avatar.webp'
