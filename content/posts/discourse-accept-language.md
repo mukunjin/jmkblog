@@ -15,7 +15,7 @@ summary: "Discourse 如何根据 URL 参数、Cookie 和 Accept-Language 请求�
 
 于是我在老年机上打开相同的内容对比，发现的帖子翻译情况（有的帖子变英文、有的帖子变中文）和正常的浏览器环境上看到的完全一样（见下图）。这也就说明，一定是我老年机上面的浏览器环境触发了Discourse的语言切换。
 
-![discourse-post-translation-comparison.jpg](https://img.mukunjin.com/discourse-post-translation-comparison.jpg)
+![discourse-post-translation-comparison.jpg](https://img.mukunjin.com/2026/discourse-post-translation-comparison.jpg)
 
 ## 头绪
 论坛界面文字变成了英文而帖子内容没有全译，而我的老年机又跑不了JavaScript，说明语言切换只能是服务器端在返回页面前就决定的，服务器能提前获知的用户语言偏好来源有URL参数、Cookie和Accept-Language请求头。在我这个场景下，URL中没有语言参数，老年机浏览器也没有保存过语言Cookie，所以最可能的就是Accept-Language请求头。
@@ -51,7 +51,7 @@ Accept-Language: ${acceptLanguage}
 
 通过我的老年机访问，最终获得了如下图的结果。
 
-![accept-language-query.webp](https://img.mukunjin.com/accept-language-query.webp)
+![accept-language-query.webp](https://img.mukunjin.com/2026/accept-language-query.webp)
 
 可以发现，Accept-Language的确是en。但这还不够，我需要去官方仓库里查阅源码才能确定处理Accept-Language的逻辑。
 

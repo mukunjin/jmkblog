@@ -13,9 +13,9 @@ summary: "夜深忽梦少年事，梦啼妆泪红阑干。谨以此文，献给�
 这篇回忆性的文章更多的是想留给多年后的自己看，我不确定我的初中同学们有多少人能看到这篇文章。我会尽可能详细地描述我的三年生活以及一些细节，后面这篇文章可能会修改很多次。我甚至不知道这篇文章需要写多久才能算作“完成”，并且我的文笔不好。总而言之，我会尽力地把我的所有记忆留给多年后的自己。本文未使用AI工具帮助写作或润色，每个字都是纯手工一点一点打出来的。
 
 ## 基本介绍
-![nanyu-logo.webp](https://img.mukunjin.com/nanyu-logo.webp)
+![nanyu-logo.webp](https://img.mukunjin.com/2026/nanyu-logo.webp)
 
-![nanyu-2026-14-logo.webp](https://img.mukunjin.com/nanyu-2026-14-logo.webp)
+![nanyu-2026-14-logo.webp](https://img.mukunjin.com/2026/nanyu-2026-14-logo.webp)
 
 ### 重庆市南渝中学校初2026届14班
 
@@ -54,7 +54,7 @@ summary: "夜深忽梦少年事，梦啼妆泪红阑干。谨以此文，献给�
 
 ### 其他老师：
 **陈小华**：教7班英语，曾任1班班主任。年级主任。外号小华/校花。25年暑假集训被他在大礼堂用手机制裁过（讲话被拍了，发给班主任和家长）。25年冬因张老师生病他短暂地教过我们。非常严厉但有趣（？）。就是在那段时间他在课上教会了我们一个单词（是的，请务必相信你的眼睛）：
-![xiaohua-gigolo.webp](https://pub-aa95b769ea0843048c4d3181378b7b3c.r2.dev/xiaohua-gigolo.webp)
+![xiaohua-gigolo.webp](https://img.mukunjin.com/2026/xiaohua-gigolo.webp)
 后面会详细说这个事。
 
 **李先全**：书记。26年寒假约跑成功，答应寒假上自习的时候和我们跑，最终因为还没跑呢自习课就被举报了而泡汤。
@@ -72,7 +72,7 @@ summary: "夜深忽梦少年事，梦啼妆泪红阑干。谨以此文，献给�
 >我知道WWZ也看菜鸡大叔的时候激动坏了。他当时听到我说“吃橘子”，一问我就发现我也看菜鸡大叔。可惜现在菜鸡大叔已经陨落了，唉。
 
 **PYD**：外号大腚/一定/一蛋。班上顶级跑者之一。~~法纳党中央总书记。~~ 他鞋的中底经常被别人踩坏（我也踩过sry）。让他写同学录至今没给我呜呜呜（其实他手里还有接近十份别人的没写）。非常感性，很豪放，不拘小节，比较豁达坦荡。拥有极品发型。现在很喜欢踢足球或者偶尔打打乒乓，以前羽毛球很厉害。毕业后很舍不得，我表示理解，唉。 ~~然后刀了他一下。~~
-![pyd-bilibili-reply.webp](https://img.mukunjin.com/pyd-bilibili-reply.webp)
+![pyd-bilibili-reply.webp](https://img.mukunjin.com/2026/pyd-bilibili-reply.webp)
 
 **SEY**：外号小美/思华/丝滑/恩nie（二声）。没得说好吧，全体起立！男生最强大脑，语文科代表，非常听老师话，学习超级认真，成绩超级好。喜欢踢球。魔方大佬。曾经的物理竞赛选手。
 
@@ -258,7 +258,7 @@ OK，第一次写计划本是23.9.11。当时老大让我们把想竞选的班�
 
 OK有一个很逆天的日子。23.11.7，老大初中第一次开始给我们的计划本打等级。认真读了的读者一定知道我曾经很不喜欢写计划本，然后我的第一个等级是：
 
-![planning-notebook-level-d.webp](https://img.mukunjin.com/planning-notebook-level-d.webp)
+![planning-notebook-level-d.webp](https://img.mukunjin.com/2026/planning-notebook-level-d.webp)
 
 当时我计划本确实写得很敷衍。**真的超级敷衍。** 于是我就荔枝（字没打错）要好好写，然后我就发现正常写的话得个A/A+很正常。当时也确实会写一些反思和思考之类的。
 
@@ -411,7 +411,7 @@ PYD当时表演了弹钢琴，JWW拉了小提琴。JWW在晚会结束后还不�
 但是现在看来，他们的决定无疑是正确的。以我的自制能力来看，不知道到了初三这些游戏会对我造成多大危害。
 
 也就是从那个时候开始我慢慢不在家里打mk48了。现在看来玩盗版AF不是一个好选择，因为正版其实不算贵。
-![afg-google-play.webp](https://img.mukunjin.com/afg-google-play.webp)
+![afg-google-play.webp](https://img.mukunjin.com/2026/afg-google-play.webp)
 
 然后我就发生戒断反应了，以至于边走路边想飞机。于是我就由此取了一个网名：行走的驾驶舱。还挺独特的，不怕重名。
 
@@ -515,7 +515,7 @@ P(X=6) = C(10,6) × (8/47)^6 × (39/47)^4 ≈ 0.00242 = 0.242%
 
 也就是在24年冬天，我突然像着了魔一样开始疯狂听霉霉的歌。当时GC有时候还会和我一起在自习课上哼一段。他最喜欢的歌是：
 
-![happier-than-ever.webp](https://img.mukunjin.com/happier-than-ever.webp)
+![happier-than-ever.webp](https://img.mukunjin.com/2026/happier-than-ever.webp)
 
 有多喜欢呢？他在初二上音乐期末测试上就是唱的这个；在24年元旦晚会上唱的也是这个。印象最深的是他的那句"Just fucking leave me alone, whoa, yeah"，因为音太高他在座位上哼的时候经常唱不上去。GC还喜欢LUNCH和Guess，后者歌词过于逆天了。
 
@@ -556,7 +556,7 @@ P(X=6) = C(10,6) × (8/47)^6 × (39/47)^4 ≈ 0.00242 = 0.242%
 
 25.3.14，一个愉快的星期五：全班要一起和过生日！那一天是整个三年除了中考外最难忘的一天。下午提前放学，包了两辆大巴车把全班同学老师和部分家长运到微电园天街，大家一起去吃了俊熙家的烤肉。我因为找不到合适的人选只能和YBW 水哥一桌，当时因为老大允许带手机去现场所以班上大部分人都在疯狂玩手机，像我这样没有手机的人只能老老实实吃饭了。我这一桌最先去给朱老师送上祝福语，因为老师桌就在我们左边。后来TZX给朱老师祝福的时候还顺手给我说了生日快乐，令我感到意外，我们平时很少说话。极品YBW自助餐点了十多份肥牛吃都吃不完，我还去看了shower的巅峰极速和WRM的B站。最后大家还一起吃了蛋糕awa:：
 
-![2025-birthday.webp](https://img.mukunjin.com/2025-birthday.webp)
+![2025-birthday.webp](https://img.mukunjin.com/2026/2025-birthday.webp)
 
 
 这是**目前**人生中最难忘的一次生日。作为感谢，我在25.3.16（周日）的晚自习结束后给全班每人和老师们准备了一盒健达巧克力。其实我过了3天生日，3.14聚餐，3.15周六我妈带我请亲戚吃了汤锅，3.16我妈又给我做了意面和烤鸡翅，说过个正式生日。
@@ -583,7 +583,7 @@ P(X=6) = C(10,6) × (8/47)^6 × (39/47)^4 ≈ 0.00242 = 0.242%
 
 提起信息技术课，我还挺感慨的。初一老师只教打字和幼儿版3D建模。初二开始用海龟学coding。初二下因为ds r1爆火老师竟然让我们用百度提供的ds写一个html游戏。想想还挺幼稚的，和现在网上每次放出来一个新模型人们纷纷做一些前端demo出来吹这个模型有多厉害差不多，甚至不是localhost哈哈。放一段JiYuTrainer作者的话吧，还挺感慨的。当时我甚至不知道这是初中最后一节信息技术课了。
 
-![jiyutrainer-author-words.webp](https://img.mukunjin.com/jiyutrainer-author-words.webp)
+![jiyutrainer-author-words.webp](https://img.mukunjin.com/2026/jiyutrainer-author-words.webp)
 >当时老师把所有人AI Coding出来的作品收集起来再发给所有人体验然后投票打分。早知道我就写一个bat脚本自动打开mk48了唉当时怎么没想到呢。
 
 自由之后我们就开始打mk48水服和龙服。反正很好玩，下课后都意犹未尽。
@@ -604,7 +604,7 @@ P(X=6) = C(10,6) × (8/47)^6 × (39/47)^4 ≈ 0.00242 = 0.242%
 
 不过比较有意思的是，我并没有去唱。为什么呢？因为我挥旗子去了。我在舞台左侧，王大在右侧，shower要走动起来舞旗子。所以其实蛮轻松的，不用学唱歌。但是还是因为训练的时候讲话被老大制裁了OvO。
 
-![hechang-siduchishui.webp](https://img.mukunjin.com/hechang-siduchishui.webp)
+![hechang-siduchishui.webp](https://img.mukunjin.com/2026/hechang-siduchishui.webp)
 
 最后我们的表演非常成功，拿了特等奖。奇怪，为什么梁老师他们和我们道别的时候我居然会有点感慨呢？
 >今年（2026）五六月左右我还在学校看到了梁老师等人，应该是来给初二的排练节目。
@@ -695,7 +695,7 @@ XJX去了一段时间八中，后来不知道为啥回来了。
 
 TR生日的那一周的周六自习课他还买了小蛋糕分给我们吃。如图：
 
-![ctr-birthday-cake.webp](https://img.mukunjin.com/ctr-birthday-cake.webp)
+![ctr-birthday-cake.webp](https://img.mukunjin.com/2026/ctr-birthday-cake.webp)
 
 TR还给了小华一块蛋糕，小华用一张印有南开校园景色和他自己手写的祝福语的明信片作为回礼。结果来教室里面的时候还送错人了，送给了TR后面的JYT哈哈哈，后面才反应过来。蒋介石当时脸吓得通红，不知道发生了什么。
 
@@ -729,7 +729,7 @@ TR还给了小华一块蛋糕，小华用一张印有南开校园景色和他自
 
 12月月考结束后我们去参观了本部。现在看来，这或许是我这辈子最后一次进本部的大门了。这个后面说。合影：
 
-![nk-photo.webp](https://img.mukunjin.com/nk-photo.webp)
+![nk-photo.webp](https://img.mukunjin.com/2026/nk-photo.webp)
 
 之前说过，我是班上第一个不上晚三的人。后来LLY YMN也不上了，和我同时走，肯定不是跟我一路走。12月以前，我们的校卡还能刷出去；后来初三的校卡好像被封掉了，不能在初三放学前刷出去，然后我就去保安亭给老大打电话，这样才能出校门。后来为了省力，干脆开了张有效期长一点的出门条。
 
@@ -787,7 +787,7 @@ LLY真是可爱极了AwA，有一次和我说她用ds写的老大布置的作文
 还有一个比较遗憾的是当时没买到vagabond a2se。出这个车是为了清Bross的旧车架，用的4720大套，十分诱人，可惜没有我合适的尺码。
 
 WWZ喊我们跑步，没去。
-![wwz-arranging-a-run-together.webp](https://pub-aa95b769ea0843048c4d3181378b7b3c.r2.dev/wwz-arranging-a-run-together.jpg)
+![wwz-arranging-a-run-together.webp](https://img.mukunjin.com/2026/wwz-arranging-a-run-together.jpg)
 
 ---
 
@@ -878,13 +878,13 @@ Lucy约定要是你把思维导图画完中考没上45就去找她要奶茶。�
 
 忘了说了，老大还给我们整了一个心愿墙。如图：
 
-![wall-of-dream.webp](https://img.mukunjin.com/wall-of-dream.webp)
+![wall-of-dream.webp](https://img.mukunjin.com/2026/wall-of-dream.webp)
 
 最后两周甚至实行了特殊课表。
 
-![first-special-class-schedule.webp](https://img.mukunjin.com/first-special-class-schedule.webp)
+![first-special-class-schedule.webp](https://img.mukunjin.com/2026/first-special-class-schedule.webp)
 
-![second-special-class-schedule.webp](https://img.mukunjin.com/second-special-class-schedule.webp)
+![second-special-class-schedule.webp](https://img.mukunjin.com/2026/second-special-class-schedule.webp)
 
 因为最后几个周五没有培优，所以就可以17:10放学。有一次我和蒋介石约好去打乒乓球，11颗七局四胜。我只能用罗少的球拍。前两局都输了，最后力挽狂澜，四比三赢下比赛。其实我看得出来到后半段，蒋介石已经有点红温了，如果说他心态好的话我应该没有胜算。后来他跟我说是因为我一直在那里摸台，动作很放松，把他给搞得有点着急了。蒋介石进步很快，初一的时候我还能跟他打得不相上下，到了初三我已经有点打不动了，因为我从24年的国庆节以后就没好好打一次球了。
 
@@ -894,7 +894,7 @@ Lucy约定要是你把思维导图画完中考没上45就去找她要奶茶。�
 
 26.6.10学校进行了最后的动员会，最后那个视频剪的太好了，终于剪出了南渝的实力。家委会还买了零食礼包，学校也在晚自习放学的时候举办了星光送行会。
 
-![graduation-dream-flying.webp](https://img.mukunjin.com/graduation-dream-flying.webp)
+![graduation-dream-flying.webp](https://img.mukunjin.com/2026/graduation-dream-flying.webp)
 
 26.6.11整个人紧张的要死，每个科目的老师也都进行了初三的最后一节正课。老大寄语：语出箴言指南，文指锦绣花开。朱老师上课的时候基本上没讲什么正课，给我们分享她女儿的一些趣事，最后拖堂讲了一下注意事项。下午去看了考场。WWZ居然坐在我的正右方。
 
@@ -904,7 +904,7 @@ Lucy约定要是你把思维导图画完中考没上45就去找她要奶茶。�
 
 中午的菜谱很有意思，贴一张小华用小米17 Ultra拍的13号的菜谱：
 
-![special-menu-for-the-high-school-entrance-exam.webp](https://img.mukunjin.com/special-menu-for-the-high-school-entrance-exam.webp)
+![special-menu-for-the-high-school-entrance-exam.webp](https://img.mukunjin.com/2026/special-menu-for-the-high-school-entrance-exam.webp)
 
 中午我没有在教室午休，去了美伦开三天的房睡觉。中午的空调开的有点太猛了，起来了还有点晕乎乎的。下午的理化也很简单，两科各扣了一分，物理忘了减去已经倒进去的液体，化学忘了搅拌也可以增大液体表面积。
 
@@ -929,7 +929,7 @@ Lucy约定要是你把思维导图画完中考没上45就去找她要奶茶。�
 
 世界名画，感谢摄影师：
 
-![exam-ending.webp](https://img.mukunjin.com/exam-ending.webp)
+![exam-ending.webp](https://img.mukunjin.com/2026/exam-ending.webp)
 
 
 下去之后发现校门口终于能进了，进去之后发现已经放学了，我去找老大把我的魔方要回来，领了毕业照回到教室发现已经空空如也了，我就去食堂吃了最后一顿饭。食堂3楼1号窗口右边那个大妈每次打菜特别大方，基本上都是三勺起步。没想到最后一顿饭居然在1楼碰到她了，于是就简单和她告了个别。卡里还有一点钱，买了两瓶大红枣，还剩九毛，大妈给了我一包纸。和WWZ PYD吃饭的时候PYD妈妈还来了。中途有看到年级很多老师上二楼去教师食堂。
@@ -1019,7 +1019,7 @@ NL上有人说我这个写的像流水账一样，可是我觉得这才是我想
 
 九月，B505又会坐满一群斗志昂扬的新初三少年，我也只不过是南开漫漫校史画卷中微不足道的一笔。但是听说南渝今年中考成绩还不错，所以有幸和大家一起创造了历史。
 
-![outstanding-ny-high-school-entrance-exam-results.webp](https://img.mukunjin.com/outstanding-ny-high-school-entrance-exam-results.webp)
+![outstanding-ny-high-school-entrance-exam-results.webp](https://img.mukunjin.com/2026/outstanding-ny-high-school-entrance-exam-results.webp)
 
 这三年真的就像做了一场盛大的梦一样。嘿，多年后的我，还记得吗？原来那些闪闪发光的日子，都是真的。你会感谢我帮你写下了这些好戏和好豆吗？
 
