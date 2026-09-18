@@ -42,10 +42,10 @@ name = 'twitter'
 url = 'https://x.com/mukunjin'
 
 [params.assets]
-favicon = '/images/avatar.webp'
-favicon16x16 = '/images/avatar.webp'
-favicon32x32 = '/images/avatar.webp'
-apple_touch_icon = '/images/avatar.webp'
+favicon = '/images/avatar.png'
+favicon16x16 = '/images/avatar.png'
+favicon32x32 = '/images/avatar.png'
+apple_touch_icon = '/images/avatar.png'
 
 [params.fuseOpts]
 isCaseSensitive = false
