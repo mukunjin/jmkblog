@@ -12,7 +12,7 @@ summary: "记录在Claude Desktop中配置并体验Dynadot MCP的过程，以及
 
 需要注意的是，准备完毕后确实需要等待十分钟左右才能进行下一次操作。我在等待期间让Claude尝试了好几次都是401。
 ## 配置连接器
-在刚刚的官方里面继续下滑，选择Claude配置教程。先打开Claude Desktop，进入自定义→连接器。点击+按钮，添加自定义连接器。然后为连接器命名，再输入Dynadot MCP服务器网址:```https://mcp.dynadot.com/mcp```。接着点击“添加”，选择连接器，再点击“连接”。最后在跳转后的Dynadot页面完成授权即可。
+在刚刚的官方界面继续下滑，选择Claude配置教程。先打开Claude Desktop，进入自定义→连接器。点击+按钮，添加自定义连接器。然后为连接器命名，再输入Dynadot MCP服务器网址:```https://mcp.dynadot.com/mcp```。接着点击“添加”，选择连接器，再点击“连接”。最后在跳转后的Dynadot页面完成授权即可。
 
 配置好后，你可以在Connectors中看到如下界面：
 ![2026/claude-desktop-connectors-interface.webp](https://img.mukunjin.com/2026/claude-desktop-connectors-interface.webp)
@@ -31,5 +31,5 @@ summary: "记录在Claude Desktop中配置并体验Dynadot MCP的过程，以及
 
 发现确实续费成功了，感觉挺方便的，一句话的事情。
 ## 总结
-MCP是真好东西啊，一句话就可以执行操作。希望这次A\不会再封我的号了（）
+MCP是真好东西啊，一句话就可以执行操作。希望这次A\不会再封我的号了（）虽然是迟早的事情。
 
