@@ -32,7 +32,7 @@ ShowSearch = true
 [params.homeInfoParams]
 Title = '博客'
 Content = 'Everything finished with exit code 0.'
-
+ 
 [params.profileMode]
 enabled = true
 title = 'Mukun Jin'
@@ -48,7 +48,7 @@ url = 'https://github.com/mukunjin'
 
 [[params.socialIcons]]
 name = 'twitter'
-url = 'https://x.com/mukunjin' 
+url = 'https://x.com/mukunjin'
 
 [params.assets]
 favicon = '/favicon.ico'
