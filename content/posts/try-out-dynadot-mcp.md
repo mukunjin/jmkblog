@@ -1,6 +1,9 @@
 ---
 title: "在Claude Desktop中体验Dynadot MCP"
 date: 2026-09-26T16:01:32+08:00
+categories: 计算机
+description: "记录在Claude Desktop中配置并体验Dynadot MCP的过程，以及使用AI自动续费域名的实际体验。"
+summary: "记录在Claude Desktop中配置并体验Dynadot MCP的过程，以及使用AI自动续费域名的实际体验。"
 ---
 ## 前言
 早在今年的8月21日，Dynadot就发布了自家的MCP。上周有空体验了一下，感觉还不错，就趁着中秋节放假记录下来。
