@@ -33,13 +33,22 @@ ShowSearch = true
 Title = '博客'
 Content = 'Everything finished with exit code 0.'
 
+[params.profileMode]
+enabled = true
+title = 'Mukun Jin'
+subtitle = 'Everything finished with exit code 0.'
+imageUrl = '/images/avatar.png'
+imageTitle = 'Mukun Jin'
+imageWidth = 150
+imageHeight = 150 
+
 [[params.socialIcons]]
 name = 'github'
 url = 'https://github.com/mukunjin'
 
 [[params.socialIcons]]
 name = 'twitter'
-url = 'https://x.com/mukunjin'
+url = 'https://x.com/mukunjin' 
 
 [params.assets]
 favicon = '/favicon.ico'
